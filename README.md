@@ -1,4 +1,4 @@
-
+![Levellers](https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg)
 
 # The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666
 
