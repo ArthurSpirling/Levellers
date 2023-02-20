@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg" width = "350" title="Levellers image">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg" width = "600" title="Levellers image">
 </p>
  
 # The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666
