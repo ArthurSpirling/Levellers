@@ -13,3 +13,37 @@ Given the period, the embeddings are in [*Early Modern English*](https://en.wiki
 > Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
 
 
+### Accessing the Embeddings
+
+1. go to this Google Drive folder, and download  `embeddings.rdata`.  The other object, `glove.rds` is simply one version of the [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) that provide an interesting counterpoint to ours, but you don't need them if all you want is the Early Modern English ones.
+2. The `embeddings.rdata` object contains two things: 
+- `all_embed` which is a 53431 (term) by 300 (dimension) matrix of embeddings of various words from the 17th Century corpus
+- `all_transform` which a 300 $\times$ 300 "transformation matrix" as described by [Rodriguez, Spirling and Stewart](https://github.com/prodriguezsosa/EmbeddingRegression) and part of the *a la carte* (ALC) embedding model from [Khodak et al](https://arxiv.org/abs/1805.05388).  In both those papers, this is the relevant **A** matrix. 
+
+
+It is possible to work directly with `all_embed`.  For example, you might want to check the nearest neighbors of some terms like `cromwell` or `sovereign`.  In which case, you can use code like the following: first, install and then load the [`conText` package](https://cran.r-project.org/web/packages/conText/index.html) from CRAN 
+```
+library(conText)
+```
+Then, try
+```
+find_nns(all_embed["sovereign",], all_embed, N = 10, norm = "l2")
+```
+which should return something like
+```
+[1] "sovereign" "reign"     "gracious"  "loyal"     "subjects"  "dutiful"  
+ [7] "majesty's" "memory"    "sacred"    "queen"
+```
+These make sense as terms close to `sovereign` in meaning or connotation for 17th Century political English.  You can also multiply by the transformation matrix which might give you even "better" (more Leveller focussed) terms: 
+```
+ LEm <- all_embed %*% all_transform
+```
+And then
+```
+find_nns(LEm["sovereign",], LEm, N = 10, norm = "l2")
+
+ [1] "sovereign" "gracious"  "reign"     "loyal"     "subjects"  "followeth"
+ [7] "close"     "majesty's" "year"      "dutiful"
+```
+
+Finally, we might want to 
