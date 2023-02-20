@@ -16,7 +16,8 @@ Given the period, the embeddings are in [*Early Modern English*](https://en.wiki
 ```
 @misc{SchwartzbergSpirling23,
   author       = "Melissa Schwartzberg and Arthur Spirling",
-  title        = "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666",
+  title        = "The Levellers and Their Contemporaries in Context: 
+    'Equality' at the Time of the English Civil War(s), 1638–1666",
   howpublished = "Working Paper",
   year         = "2023"}
 ```
