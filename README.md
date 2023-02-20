@@ -15,7 +15,7 @@ Given the period, the embeddings are in [*Early Modern English*](https://en.wiki
 
 ### Accessing the Embeddings
 
-1. go to this Google Drive folder, and download  `embeddings.rdata`.  The other object, `glove.rds` is simply one version of the [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) that provide an interesting counterpoint to ours, but you don't need them if all you want is the Early Modern English ones.
+1. go to (this Google Drive folder)[(https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing)], and download  `embeddings.rdata`.  The other object, `glove.rds` is simply one version of the [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) that provide an interesting counterpoint to ours, but you don't need them if all you want is the Early Modern English ones.
 2. The `embeddings.rdata` object contains two things: 
 - `all_embed` which is a 53431 (term) by 300 (dimension) matrix of embeddings of various words from the 17th Century corpus
 - `all_transform` which a 300 $\times$ 300 "transformation matrix" as described by [Rodriguez, Spirling and Stewart](https://github.com/prodriguezsosa/EmbeddingRegression) and part of the *a la carte* (ALC) embedding model from [Khodak et al](https://arxiv.org/abs/1805.05388).  In both those papers, this is the relevant **A** matrix. 
