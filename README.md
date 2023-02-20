@@ -1,5 +1,7 @@
-![Levellers](https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg)
-
+<p align="center">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg" width = "350" title="Levellers image">
+</p>
+ 
 # The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666
 
 This is the public facing project site for the work by Melissa Schwartzberg and Arthur Spirling on the Levellers. Specifically, the current version of their paper  *The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666* is stored here.  The abstract for that paper is
