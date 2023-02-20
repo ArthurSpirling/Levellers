@@ -46,4 +46,17 @@ find_nns(LEm["sovereign",], LEm, N = 10, norm = "l2")
  [7] "close"     "majesty's" "year"      "dutiful"
 ```
 
-Finally, we might want to 
+Finally, we might want to compare these neighbors to those of similar terms in modern (internet) English.  The GloVe embeddings can help with that.  Download the `glove.rds` object and try
+
+```
+glove <- readRDS("glove.rds")
+find_nns(glove["sovereign",], glove, N = 10, norm = "l2") )
+```
+This should return something like
+```
+ [1] "sovereign"        "sovereignty"      "entity"          
+ [4] "debt"             "status"           "downgrade"       
+ [7] "creditworthiness" "entities"         "affirmed"        
+[10] "monarch"         
+```
+The point here is that these terms reflect more contemporary understandings of what "sovereign" connotes---including notions of debt and credit---relative to our Early Modern English version.
