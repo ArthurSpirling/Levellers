@@ -13,7 +13,7 @@ The paper uses a new dataset of Leveller pamphlets, and produces *a la carte* em
 
 Given the period, the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English) and are freely available to anyone who needs them. You can find them in [this gdrive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  We simply ask that you cite our paper as something like
 
-```
-Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
-```
+
+> Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
+
 
