@@ -49,8 +49,7 @@ find_nns(LEm["sovereign",], LEm, N = 10, norm = "l2")
  [1] "sovereign" "gracious"  "reign"     "loyal"     "subjects"  "followeth"
  [7] "close"     "majesty's" "year"      "dutiful"
 ```
-
-Finally, we might want to compare these neighbors to those of similar terms from a corpus of modern (internet) English.  The GloVe embeddings can help with that.  Download the `glove.rds` object and try
+which are obviously very similar in this case.  Finally, we might want to compare these neighbors to those of similar terms from a corpus of modern (internet) English.  The GloVe embeddings can help with that.  Download the `glove.rds` object and try
 
 ```
 glove <- readRDS("glove.rds")
