@@ -11,7 +11,7 @@ is stored here.  The abstract for that paper is
 
 The paper uses a new dataset of Leveller pamphlets, and produces *a la carte* embeddings (in the sense of [Rodriguez, Spirling and Stewart](https://github.com/prodriguezsosa/EmbeddingRegression)) of the same.  These rely on a set of 17th Century parliamentary journals as a training corpus, courtesy of [Tom Paskhalis](https://tom.paskhal.is/) and [Toni Rodon](https://tonirodon.cat/)---see their paper, [here](https://osf.io/qgu9c).  
 
-Given the period, the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English) and are freely available to anyone who needs them.  We simply ask that you cite our paper as something like
+Given the period, the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English) and are freely available to anyone who needs them. You can find them in [this gdrive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  We simply ask that you cite our paper as something like
 
 ```
 @misc{SchwartzbergSpirling23,
