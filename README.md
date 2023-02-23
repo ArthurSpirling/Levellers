@@ -23,7 +23,7 @@ Once digitized, it contains passages such as:
 
 > IF thou art prejudicate, save thy purse and thy paines; ’tis the considerate man, he that ponders his wayes, I had rather deal with: I promise thee thus much, I have no design to seduce thee, but whatsoever I have written, is my very thought: it may be thou art perswaded thou maist better employ thy time in Reading; I believe no lesse, however thou shalt finde some things here, not altogether unworthy of Consideration.
 
-Given the period, the pamphlet text and the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English). The embeddings are freely available to anyone who needs them. You can find them in [this Google Drive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  If you use them, we simply ask that you cite our paper as something like
+That is, it is written in [*Early Modern English* (EME)](https://en.wikipedia.org/wiki/Early_Modern_English). Consequently, the embeddings are also in EME, and we make them freely available to anyone who needs them. You can find them in [this Google Drive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  If you use them, we simply ask that you cite our paper as something like
 
 
 > Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
