@@ -14,7 +14,9 @@ The paper uses a new machine readable [dataset](https://oll.libertyfund.org/coll
 As an example of a pamphlet, consider *The Grand Concernments of England ensured* published anonymously, in 1659.  In its original form, it looks like this: 
 
 <p align="center">
+ <kbd>
 <img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" width = "300" title="Levellers image">
+  </kbd>
 </p>
 
 Once digitized, it contains passages such as: 
