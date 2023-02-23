@@ -11,7 +11,13 @@ This is the public facing project site for the work by [Melissa Schwartzberg](ht
 
 The paper uses a new machine readable [dataset](https://oll.libertyfund.org/collection/the-levellers) of pamphlets written by the Levellers and their contemporaries, and produces *a la carte* embeddings (in the sense of [Rodriguez, Spirling and Stewart](https://github.com/prodriguezsosa/EmbeddingRegression)) of the same.  These rely on a set of 17th Century parliamentary journals as a training corpus, courtesy of [Tom Paskhalis](https://tom.paskhal.is/) and [Toni Rodon](https://tonirodon.cat/)---see their paper, [here](https://osf.io/qgu9c).  
 
-Given the period, the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English) and are freely available to anyone who needs them. You can find them in [this Google Drive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  If you use them, we simply ask that you cite our paper as something like
+As an example of a pamphlet, consider *The Grand Concernments of England ensured* published anonymously, in 1659.  In its original form, it looks like this: 
+
+Once digitized, it contains passages such as: 
+
+> IF thou art prejudicate, save thy purse and thy paines; ’tis the considerate man, he that ponders his wayes, I had rather deal with: I promise thee thus much, I have no design to seduce thee, but whatsoever I have written, is my very thought: it may be thou art perswaded thou maist better employ thy time in Reading; I believe no lesse, however thou shalt finde some things here, not altogether unworthy of Consideration.
+
+Given the period, the pamphlet text and the embeddings are in [*Early Modern English*](https://en.wikipedia.org/wiki/Early_Modern_English). The embeddings are freely available to anyone who needs them. You can find them in [this Google Drive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  If you use them, we simply ask that you cite our paper as something like
 
 
 > Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
