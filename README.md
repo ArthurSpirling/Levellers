@@ -15,7 +15,7 @@ As an example of a pamphlet, consider *The Grand Concernments of England ensured
 
 <p align="center">
  <kbd>
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" width = "300" title="Levellers image">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" width = "200" title="Levellers image">
   </kbd>
 </p>
 
