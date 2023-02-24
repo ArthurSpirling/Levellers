@@ -14,9 +14,10 @@ The paper uses a new machine readable [dataset](https://oll.libertyfund.org/coll
 As an example of a pamphlet, consider *The Grand Concernments of England ensured* published anonymously, in 1659.  In its original form, it looks like this: 
 <p>
 <kbd>
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" align="left" width = "200" title="Levellers image">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" align="center" width = "200" title="Levellers image">
   </kbd> 
 </p> 
+
 Once digitized, it contains passages such as: 
 
 > IF thou art prejudicate, save thy purse and thy paines; ’tis the considerate man, he that ponders his wayes, I had rather deal with: I promise thee thus much, I have no design to seduce thee, but whatsoever I have written, is my very thought: it may be thou art perswaded thou maist better employ thy time in Reading; I believe no lesse, however thou shalt finde some things here, not altogether unworthy of Consideration.
