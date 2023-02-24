@@ -12,9 +12,9 @@ This is the public facing project site for the work by [Melissa Schwartzberg](ht
 The paper uses a new machine readable [dataset](https://oll.libertyfund.org/collection/the-levellers) of pamphlets written by the Levellers and their contemporaries, and produces *a la carte* embeddings (in the sense of [Rodriguez, Spirling and Stewart](https://github.com/prodriguezsosa/EmbeddingRegression)) of the same.  These rely on a set of 17th Century parliamentary journals as a training corpus, courtesy of [Tom Paskhalis](https://tom.paskhal.is/) and [Toni Rodon](https://tonirodon.cat/)---see their paper, [here](https://osf.io/qgu9c).  
 
 As an example of a pamphlet, consider *The Grand Concernments of England ensured* published anonymously, in 1659.  In its original form, it looks like this: 
-<p>
+<p align="center">
 <kbd>
-<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg" align="center" width = "200" title="Levellers image">
+<img src="https://github.com/ArthurSpirling/Levellers/blob/main/grand_concernments.jpg"  width = "200" title="Levellers image">
   </kbd> 
 </p> 
 
