@@ -25,7 +25,7 @@ Once digitized, it contains passages such as:
 That is, it is written in [*Early Modern English* (EME)](https://en.wikipedia.org/wiki/Early_Modern_English). Consequently, the embeddings are also in EME, and we make them freely available to anyone who needs them. You can find them in [this Google Drive folder](https://drive.google.com/drive/folders/1oGCMSnmcZG-uxO-gxj3otyT8QXlhmTp8?usp=sharing), and we discuss how to access them below.  If you use them, we simply ask that you cite our paper as something like
 
 
-> Melissa Schwartzberg and Arthur Spirling. "The Levellers and Their Contemporaries in Context: 'Equality' at the Time of the English Civil War(s), 1638–1666". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
+> Melissa Schwartzberg and Arthur Spirling. "The Levellers in Context: Equals, Peers and Free-born Englishmen". Working Paper. New York University. URL: https://github.com/ArthurSpirling/Levellers
 
 
 ### Accessing the Embeddings
