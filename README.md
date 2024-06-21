@@ -2,7 +2,7 @@
 <img src="https://github.com/ArthurSpirling/Levellers/blob/main/lev_banner.jpg" width = "860" title="Levellers image">
 </p>
  
-# Peers, Equals, and Jurors: New Data and Methods on The Role of Legal Equality in Leveller Thought, 1638--1666
+# Peers, Equals, and Jurors: New Data and Methods on The Role of Legal Equality in Leveller Thought 
 
 This is the public facing project site for the work by [Melissa Schwartzberg](https://melissaschwartzberg.wordpress.com/) and [Arthur Spirling](http://arthurspirling.org/) on the [Levellers](https://en.wikipedia.org/wiki/Levellers). Specifically, the current version of their paper  *Peers, Equals, and Jurors: New Data and Methods on The Role of Legal Equality in Leveller Thought* is stored [here](https://github.com/ArthurSpirling/Levellers/blob/main/Levellers_Schwartzberg_Spirling_June_2024.pdf).  The abstract for that paper is
 
